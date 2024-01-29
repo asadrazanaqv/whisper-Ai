@@ -22,7 +22,7 @@ const Home: NextPage = () => {
           Lets Translate
         </h1>
         <p className="sm:text-xl text-lg max-w-md font-bold text-slate-900 mt-5">
-          Using OpenAI's Whisper + GPT-3 API
+          Using OpenAI's Whisper + GPT-3.5 API
         </p>
         <div className="flex mt-5 mb-[-5px]">
         <button
